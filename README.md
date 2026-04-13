@@ -8,7 +8,7 @@
 
 ---
 
-M1 student in AI & Visual Computing. I work on computer vision and machine learning, and I care about how things look just as much as how they work. I do UI/UX and graphic design on the side, and occasionally build games for fun. Interested in research.
+M1 student in AI & Visual Computing. I work on computer vision and machine learning, and I care about how things look just as much as how they work. I do UI/UX and graphic design on the side, and occasionally build games for fun. Interested in AI & Visual Computing research.
 
 ---
 
