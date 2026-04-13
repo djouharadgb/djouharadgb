@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-██████╗      ██╗ ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗  █████╗
-██╔══██╗     ██║██╔═══██╗██║   ██║██║  ██║██╔══██╗██╔══██╗██╔══██╗
-██║  ██║     ██║██║   ██║██║   ██║███████║███████║██████╔╝███████║
-██║  ██║██   ██║██║   ██║██║   ██║██╔══██║██╔══██║██╔══██╗██╔══██║
-██████╔╝╚█████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║
-╚═════╝  ╚════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=M1+AI+%26+Visual+Computing+Student;Building+intelligent+systems;Training+vision+models;Designing+interfaces+that+matter;Reading+research+papers+%F0%9F%93%84" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=AI+%26+Visual+Computing+Student;Computer+Vision+%7C+Machine+Learning;UI%2FUX+Design+%7C+Graphic+Design;Making+games+on+the+side" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=djouharadgb&label=profile+views&color=7F77DD&style=flat-square)
 
@@ -19,28 +8,31 @@
 
 ---
 
-```python
-class Djouhara:
-    name     = "DEGHBAR Djouhara"
-    location = "Algiers, DZ"
-    degree   = "M1 AI & Visual Computing"
-    focus    = ["Computer Vision", "Machine Learning", "AI Research"]
-    also     = ["UI/UX Design", "Graphic Design", "Game Dev (for fun)"]
-    reading  = "probably a research paper right now"
-```
+M1 student in AI & Visual Computing. I work on computer vision and machine learning, and I care about how things look just as much as how they work. I do UI/UX and graphic design on the side, and occasionally build games for fun. Interested in research.
 
 ---
 
 ### stack
 
-| domain | tools |
-|---|---|
-| **AI / ML** | PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas · Matplotlib · Qiskit |
-| **Frontend** | HTML · CSS · JavaScript · Tailwind · Bootstrap · jQuery · Flutter/Dart |
-| **Backend / Lang** | Python · Java · C · C++ · C# · PHP · Java Swing · LaTeX |
-| **Data / Env** | MySQL · Apache · Jupyter · Anaconda · Pygame |
-| **Design** | Figma · Adobe Illustrator · Canva · Blender · Unity |
-| **Dev tools** | Git · GitHub · Linux · VS Code |
+**AI / ML**
+
+![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda)
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,flutter)
+
+**Languages**
+
+![](https://skillicons.dev/icons?i=java,c,cpp,cs,php)
+
+**Design & 3D**
+
+![](https://skillicons.dev/icons?i=figma,ai,blender,unity)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=git,github,linux,mysql,vscode)
 
 ---
 
@@ -56,8 +48,6 @@ class Djouhara:
 </div>
 
 ---
-
-### find me
 
 <div>
   <a href="https://www.linkedin.com/in/djouhara-deghbar/">
