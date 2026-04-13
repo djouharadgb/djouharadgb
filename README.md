@@ -38,10 +38,6 @@ M1 student in AI & Visual Computing. I work on computer vision and machine learn
 
 ### github stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=djouharadgb&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djouharadgb&layout=compact&langs_count=7&hide_border=true&theme=algolia" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djouharadgb&theme=algolia&hide_border=true" />
