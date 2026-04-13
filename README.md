@@ -20,9 +20,11 @@ M1 student in AI & Visual Computing. I work on computer vision and machine learn
 
 ![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,sklearn)
 
-**Data & Scientific**
-
-![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-3e7d11?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 
 **Frontend**
 
@@ -30,24 +32,22 @@ M1 student in AI & Visual Computing. I work on computer vision and machine learn
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=java,c,cpp,cs,php,latex)
+![](https://skillicons.dev/icons?i=java,c,cpp,cs,php)
+
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
 
 **Design & 3D**
 
-![](https://skillicons.dev/icons?i=figma,ai,blender,unity,canva)
+![](https://skillicons.dev/icons?i=figma,ai,blender,unity)
+
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 **Tools & Infra**
 
-![](https://skillicons.dev/icons?i=git,github,linux,mysql,vscode,apache)
+![](https://skillicons.dev/icons?i=git,github,linux,mysql,vscode,apache,jupyter)
 
----
-
-> skillicons doesn't support: `pygame`, `qiskit`, `java swing`, `matplotlib` (use badge fallback below)
-
-[![Pygame](https://img.shields.io/badge/Pygame-darkgreen?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 
 ---
 
