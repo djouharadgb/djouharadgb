@@ -55,6 +55,10 @@ M1 student in AI & Visual Computing. I work on computer vision and machine learn
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djouharadgb&theme=algolia&hide_border=true" />
+
+<br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djouharadgb&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=7F77DD&line=7F77DD&point=a0a0ff" />
 </div>
 
 ---
